@@ -25,7 +25,7 @@
 import Foundation
 import InputBarAccessoryView
 
-extension MessagesViewController {
+internal extension MessagesViewController {
 
     // MARK: - Register / Unregister Observers
 

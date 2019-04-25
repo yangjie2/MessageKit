@@ -24,7 +24,7 @@
 
 import Foundation
 
-extension MessagesViewController {
+internal extension MessagesViewController {
 
     // MARK: - Register / Unregister Observers
 
