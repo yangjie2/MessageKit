@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:ChatExample.xcodeproj">
+      location = "container:ChatExample.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Pods/Pods.xcodeproj">
+      location = "group:MessageKit">
    </FileRef>
 </Workspace>
